@@ -1,0 +1,1 @@
+export { Trigonometri } from './Trigonometri'
